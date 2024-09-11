@@ -36,4 +36,5 @@ This repository is a testament to my journey of continuous learning and innovati
 
 ---
 
-Author: Jash Shah
+## Author
+Jash Shah
