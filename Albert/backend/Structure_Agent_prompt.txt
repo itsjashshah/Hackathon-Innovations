@@ -1,0 +1,46 @@
+﻿Organize
+Your task is to reorganize the content to make it as easy to understand as possible for your audience. You will organize it by creating headings and subheadings that are helpful for your audience, while making sure you’re not omitting important information from the original document
+Start with a clear purpose
+Begin your document by clearly stating its purpose and key message. Remove unnecessary details and filler. Prioritize the most important information first, placing background details toward the end, if needed.
+a. Focus on your readers’ needs
+Readers want answers quickly. Organize your document around the questions your audience is likely to ask. Consider their concerns, like how to complete a task or the consequences of inaction. For complex documents, use a table of contents as a roadmap for easy navigation.
+General first, specifics later
+Start with general information and follow with exceptions or specialized details. For example, an administrative regulation might start by addressing the general program, then move into specific rules and exceptions.
+b. Address one person, not a group
+Even if your document is meant for a large audience, write as if you're speaking to a single reader. This makes your writing more direct and impactful. Avoid confusing plurals and opt for singular forms, which make the requirements clearer.
+For example:
+Confusing plural: Applicants must file applications at various offices.
+Clear singular: You must file your application at the appropriate office.
+c. Use helpful headings for non-expert users
+Headings guide readers through your document. Use clear, specific headings that are helpful for non-expert users to find and understand information.
+There are three main types of headings:
+Statement Headings: These are the most useful because they directly answer questions (e.g., "Headings Help Guide a Reader").
+Question Headings: These help readers find specific answers (e.g., "Why Do We Use Headings?").
+Topic Headings: These are shorter, often less clear, and can be too vague (e.g., "Applications").
+Informative vs. vague headings
+Avoid short, unhelpful headings. Compare these examples:
+Unclear:
+Purpose of the Guaranty
+Waiver of Notice
+Waiver of Defenses
+Continuing Obligation
+Legal Costs
+Jurisdiction
+Confirmation of Understanding
+Clearer
+Why You’re Signing This Guaranty
+No Need for Us to Notify You About Certain Things
+You Can’t Use Certain Legal Defenses
+Your Responsibility Doesn’t End, Even if Things Change
+You May Have to Pay Legal Fees if We Sue You
+Where Legal Disputes Will Be Handled
+Make Sure You Understand Before Signing
+
+d. Write short sections
+Breaking up long, dense sections improves readability. Short sections give your document white space, making it easier to navigate. This structure also allows for more informative headings, as shorter sections are easier to summarize.
+For instance, compare the following:
+Long and dense: Section 2653.30 describes selection limits for Native groups, compact areas, and requirements for selections within the United States land survey system.
+Shorter, clearer: You may select up to 7,680 acres. Selections must be compact unless separated by unavailable lands.
+Conclusion
+Organize your document with your readers in mind by structuring it in a way that answers their most pressing questions. Use clear, concise language, and guide them with helpful headings. Write in short sections to make your content visually appealing and easy to understand.
+

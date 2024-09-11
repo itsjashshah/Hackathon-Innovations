@@ -1,0 +1,152 @@
+Writing Your Document
+Writing clear, concise, and effective documents is possible with relatively small effort and time. By applying a few simple techniques, you can significantly improve traditionally written materials.
+
+a. Word Choice
+Words are the foundation of all communication. When writing, choose your words carefully to ensure your message is both precise and concise.
+
+1. Verbs
+Verbs are crucial for telling your audience what actions to take. Make sure it’s clear who does what. Verbs should lead the sentence.
+
+i. Use Active Voice
+Active voice makes it clear who is responsible for what action. It removes ambiguity by specifying who performs the task. For example, instead of writing, "It must be done," write, "You must do it."
+
+Passive voice can confuse readers by making it unclear who is responsible. This is particularly problematic in government documents. Passive voice isn’t the same as past tense. In active sentences, the subject (person or agency) performs the action. In passive sentences, the subject receives the action.
+
+Examples:
+
+Passive Voice	Active Voice
+The lake was polluted by the company.	The company polluted the lake.
+New regulations were proposed.	We proposed new regulations.
+The following information must be included in the application.	You must include the following information in your application.
+Bonds will be withheld for non-compliance.	We will withhold your bond if you don’t comply.
+Using active voice makes your writing clearer and more engaging. It also helps define who is accountable for each action.
+
+ii. Use Present Tense
+The simplest form of a verb is the present tense. Writing in the present tense makes your document more direct, clear, and less complicated. Present tense provides immediacy to the writing, helping the reader focus on the current action.
+
+Examples:
+
+Don’t Say	Say
+This section describes information that would satisfy the application.	This section tells you how to meet the application requirements.
+Even when covering past events, writing in the present tense often makes the material easier to understand.
+
+iii. Avoid Hidden Verbs
+Hidden verbs are verbs disguised as nouns. This weakens the power of your writing and often leads to unnecessary wordiness. Hidden verbs commonly end in -ment, -tion, -sion, and -ance, or are linked with verbs like “achieve,” “make,” or “conduct.”
+
+Examples:
+
+Hidden Verb	Uncovered Verb
+Conduct a review of the accounts.	Review the accounts.
+Make an application for a loan.	Apply for a loan.
+Undertake the calculation of new figures.	Calculate new figures.
+iv. Use “Must” for Requirements
+“Must” is the clearest way to convey a requirement. Avoid using “shall”—it is outdated and often ambiguous, leading to confusion about whether it indicates obligation or prediction.
+
+Use:
+
+Must for obligations.
+Must not for prohibitions.
+May for discretionary actions.
+Should for recommendations.
+Example:
+
+Don’t Say	Say
+The lessee shall submit an application.	You must submit an application.
+v. Use Contractions
+Contractions make your writing more conversational and accessible. Research shows they enhance readability. Use them naturally and where appropriate, but avoid overuse.
+
+Example:
+
+Don’t Say	Say
+No pilot in command may allow objects to be dropped from the aircraft.	Don’t allow any object to be dropped from the aircraft.
+2. Nouns and Pronouns
+Nouns add substance, and pronouns engage the reader. Keep your writing clear by avoiding unnecessarily complex noun strings.
+
+i. Avoid Noun Strings
+Noun strings occur when multiple nouns are packed together. This reduces clarity and readability.
+
+Example:
+
+Don’t Say	Say
+Draft laboratory animal rights protection regulations.	Draft regulations to protect the rights of laboratory animals.
+ii. Use Pronouns to Engage the Reader
+Pronouns like “you” and “we” help connect the reader to the document. Addressing the reader directly makes it clearer what they are supposed to do.
+
+Example:
+
+Don’t Say	Say
+Copies of tax returns must be provided.	You must provide copies of your tax returns.
+Always clearly define “you” and “we” so readers know who is being addressed.
+
+iii. Minimize Abbreviations
+Abbreviations can confuse readers and disrupt the flow of your document. Use abbreviations sparingly, and only when they are widely recognized (e.g., IBM, CIA). If abbreviations are necessary, always define them the first time they appear.
+
+3. Other Word Considerations
+i. Use Short, Simple Words
+Choose familiar, concrete words over complex, abstract ones. Avoid jargon or technical terms where simpler language can convey the same meaning.
+
+ii. Omit Unnecessary Words
+Wordiness makes documents harder to read. Remove redundant or superfluous words to make your writing more concise and effective.
+
+Examples:
+
+Don’t Say	Say
+Due and payable.	Due.
+Cease and desist.	Stop.
+iii. Minimize Definitions
+Use definitions only when absolutely necessary, and place them at the end of the document rather than at the beginning.
+
+iv. Consistent Terminology
+Use the same term consistently throughout your document. For example, if you refer to a group as “senior citizens,” avoid switching to “the elderly” later on. Consistency aids understanding.
+
+v. Avoid Legal and Technical Jargon
+Whenever possible, replace jargon with everyday language. If technical terms are unavoidable, make sure to clearly define them.
+
+vi. Avoid Slashes
+Avoid using slashes in writing (e.g., "and/or"). Instead, clarify the meaning by writing out both options.
+
+b. Sentence Structure
+1. Write Short Sentences
+Each sentence should convey one idea. Shorter sentences are easier to read and process, especially when presenting complex information.
+
+2. Keep Subject, Verb, and Object Close
+Keep these three elements close together to make your sentence clear and direct. Sentences that separate the subject, verb, and object can confuse the reader.
+
+3. Avoid Double Negatives
+Double negatives make sentences unnecessarily complicated. Write positively to make your meaning clear.
+
+Example:
+
+Don’t Say	Say
+No fewer than three applicants.	At least three applicants.
+4. State the Main Idea First
+Start with your main idea and follow it with exceptions or conditions. This structure makes your writing easier to follow.
+
+5. Place Words Carefully
+Sloppy word placement can lead to ambiguity. Keep modifiers close to the words they modify to ensure clarity.
+
+c. Paragraph Structure
+1. Use Topic Sentences
+Each paragraph should begin with a topic sentence that tells the reader what the paragraph will cover.
+
+2. Use Transition Words
+Transition words help connect paragraphs and make your document flow smoothly. Use words like “however,” “therefore,” and “for example” to guide the reader.
+
+3. Keep Paragraphs Short
+Short paragraphs are easier to read. Aim for three to eight sentences per paragraph, and try to limit paragraphs to one topic.
+
+d. Additional Tools for Clarity
+1. Use Examples
+Examples help explain complex concepts and make your document more relatable.
+
+2. Use Lists
+Vertical lists break up text and help the reader focus on important information. Use lists for steps in a process, conditions, or key points.
+
+3. Use Tables
+Tables clarify relationships between data and make dense information easier to understand. If-then tables are especially helpful for explaining conditional actions.
+
+4. Consider Illustrations
+Illustrations can enhance understanding, especially for complex processes or technical material.
+
+5. Use Emphasis Sparingly
+Use bold for emphasis, and italics for defined terms. Avoid using ALL CAPS or underlining, as these make text harder to read and may be misinterpreted online.
